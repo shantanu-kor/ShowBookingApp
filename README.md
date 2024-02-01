@@ -2,7 +2,7 @@
 
 In terminal: 
 
-npm install
+1. npm install
 
-npm start
+2. npm start
 
